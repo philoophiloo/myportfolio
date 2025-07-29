@@ -22,7 +22,7 @@ const Projects = () => {
       desc: 'Seamlessly manage Contacts, Organizations, and Industries.',
       tech: ['React.js', 'Tailwind CSS', 'Mysql','Laravel'],
       gradient: 'from-green-600 to-blue-600',
-      link: 'convergevercel-hrm1t0rja-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
+      link: 'http://convergevercel-hrm1t0rja-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
     }
    
   ];
