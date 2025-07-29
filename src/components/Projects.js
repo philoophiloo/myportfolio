@@ -4,25 +4,27 @@ const Projects = () => {
   const projectsData = [
     {
       title: 'CargoFlow',
-      desc: 'A responsive portfolio built with React and modern CSS featuring smooth animations and contemporary design.',
-      tech: ['React', 'Tailwind CSS', 'Framer Motion'],
+      desc: 'Transform your maritime logistics with our comprehensive platform. Manage ships, cargo, crew, and ports with unprecedented efficiency and real-time visibility.',
+      tech: ['Reactjs', 'Tailwind CSS','Mysql','Laravel'],
       gradient: 'from-purple-600 to-pink-600',
-      link: 'http://cargovercel-ga70rmes8-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
+      link: 'http://cargovercel-ew3izu5e9-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
+    },
+     {
+      title: 'Startpoint',
+      desc: ['Automating job,internship applications in the public service sector ',
+      'StartPoint is the all-in-one portal connecting students with career-defining internships.'],
+      tech: ['React.js', 'Tailwind CSS', 'Mysql', 'Laravel'],
+      gradient: 'from-green-600 to-blue-600',
+      link: 'http://startpointvercel-bi7fp6olm-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
     },
     {
-      title: 'E-Commerce Platform (on-going)',
-      desc: 'Modern shopping experience with payment integration and responsive design.',
-      tech: ['React.js', 'node.js', 'Mysql'],
+      title: 'Converge',
+      desc: 'Seamlessly manage Contacts, Organizations, and Industries.',
+      tech: ['React.js', 'Tailwind CSS', 'Mysql','Laravel'],
       gradient: 'from-green-600 to-blue-600',
-      link: 'https://convergevercel-p98c5liqh-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
-    },
-    {
-      title: 'Internship portal (on-going)',
-      desc: 'Automating job,internship applications in the public service sector ',
-      tech: ['React.js', 'node.js', 'Mysql', 'laravel'],
-      gradient: 'from-green-600 to-blue-600',
-      link: 'http://startpointvercel-f6xwyq1qx-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
+      link: 'convergevercel-hrm1t0rja-philemons-projects-b1e45a87.vercel.app' // Add your Vercel link here
     }
+   
   ];
 
   return (
