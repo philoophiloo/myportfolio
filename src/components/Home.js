@@ -25,7 +25,7 @@ const Home = ({ scrollToSection }) => {
           <div className="h-1 w-28 bg-gradient-to-r from-purple-500 to-pink-500 mx-auto rounded-full md-4"></div>
         </div>
         <p className="text-xl md:text-2xl text-slate-300 mb-4 font-light leading-relaxed max-w-2xl mx-auto">
-          A Passionate Fullstack Web Developer specializing in modern, responsive, and dynamic web applications using **React.js**, **Laravel**, and **Node.js**.
+          A Passionate Fullstack Web Developer specializing in modern, responsive, and dynamic web applications.
           <br />
         </p>
         <div className="flex flex-wrap justify-center gap-4 mb-12">

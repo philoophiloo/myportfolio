@@ -18,7 +18,7 @@ const Skills = () => {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 18h.01M8 21h8a1 1 0 001-1V4a1 1 0 00-1-1H8a1 1 0 00-1 1v16a1 1 0 001 1z" />
         </svg>
       ),
-      desc: 'Develop secure and efficient backends with Laravel or Node.js'
+      desc: 'Develop secure and efficient backends with Laravel PHP'
     },
     {
       name: 'Database',
